@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Jun<!DOCTYPE html>
 <html>
 <head>
     <title>Home | My Website</title>
@@ -87,6 +87,58 @@ It contains four pages connected using a navigation bar.
 
 <center>
 <p>📸 These images represent creativity and beauty.</p>
+</center>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contact | My Website</title>
+</head>
+<body bgcolor="#E6FFE6">
+
+<center>
+<h1>📞 Contact Me 📞</h1>
+</center>
+
+<hr>
+
+<center>
+<table border="1" cellpadding="10" width="80%">
+<tr bgcolor="#90EE90">
+    <th><a href="index.html">🏠 Home</a></th>
+    <th><a href="gallery.html">🖼 Gallery</a></th>
+    <th><a href="contact.html">📞 Contact</a></th>
+    <th><a href="info.html">ℹ Information</a></th>
+</tr>
+</table>
+</center>
+
+<hr>
+
+<center>
+<form>
+<table border="1" cellpadding="10">
+<tr>
+    <td>Name:</td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>Email:</td>
+    <td><input type="email"></td>
+</tr>
+<tr>
+    <td>Message:</td>
+    <td><textarea rows="4" cols="20"></textarea></td>
+</tr>
+<tr>
+    <td colspan="2" align="center">
+        <input type="submit" value="Send Message">
+    </td>
+</tr>
+</table>
+</form>
 </center>
 
 </body>
