@@ -131,12 +131,8 @@ It contains four pages connected using a navigation bar.
     <td><input type="email"></td>
 </tr>
     
-<tr>
-    
-        
-    <td>Message:</td>
-    <td><textarea rows="4" cols="20"></textarea></td>
-</tr>
+
+
 
 <tr>
     <td colspan="2" align="center">
