@@ -10,7 +10,7 @@
 
 <hr>
 
-<!-- NAVBAR -->
+<nav>
 <center>
 <table border="1" cellpadding="10" cellspacing="0" width="80%">
 <tr bgcolor="#ADD8E6">
@@ -21,9 +21,9 @@
 </tr>
 </table>
 </center>
-
+</nav>
 <hr>
-
+<section id="index.html>
 <center>
 <h2>✨ About This Website ✨</h2>
 <p>
@@ -40,7 +40,7 @@ It contains four pages connected using a navigation bar.
 <hr>
 
 <marquee behavior="alternate">🌈 Learning HTML is Fun | Practice Makes Perfect 🌈</marquee>
-
+</section>
 </body>
 </html>
 <!DOCTYPE html>
@@ -49,9 +49,9 @@ It contains four pages connected using a navigation bar.
     
 </head>
 <body bgcolor="#FFF0F5">
-
+<section id="gallery.html">
 <center>
-<h1>🖼 My Gallery 🖼</h1>
+<h1>🖼 My Gallery </h1>
 </center>
 
 <hr>
@@ -88,8 +88,9 @@ It contains four pages connected using a navigation bar.
 <center>
 <p>📸 These images represent creativity and beauty.</p>
 </center>
-
+</section>
 </body>
+
 </html>
 <!DOCTYPE html>
 <html>
@@ -97,9 +98,9 @@ It contains four pages connected using a navigation bar.
     
 </head>
 <body bgcolor="#E6FFE6">
-
+<section id="contact.html">
 <center>
-<h1>📞 Contact Me 📞</h1>
+<h1>📞 Contact Me </h1>
 </center>
 
 <hr>
@@ -141,7 +142,7 @@ It contains four pages connected using a navigation bar.
 </table>
 </form>
 </center>
-
+    </section>
 </body>
 </html>
 <!DOCTYPE html>
@@ -150,7 +151,7 @@ It contains four pages connected using a navigation bar.
     
 </head>
 <body background="https://picsum.photos/12">
-
+<section id="info.html>
 <center>
 <h1>ℹ Website Information ℹ</h1>
 </center>
@@ -196,6 +197,6 @@ It contains four pages connected using a navigation bar.
 <center>
 <b>🌟 Thank you for visiting this website 🌟</b>
 </center>
-
+</section>
 </body>
 </html>
