@@ -1,7 +1,6 @@
-Jun<!DOCTYPE html>
+
 <html>
 <head>
-    <title>Home | My Website</title>
 </head>
 <body bgcolor="#F0F8FF">
 
@@ -47,7 +46,7 @@ It contains four pages connected using a navigation bar.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gallery | My Website</title>
+    
 </head>
 <body bgcolor="#FFF0F5">
 
@@ -95,7 +94,7 @@ It contains four pages connected using a navigation bar.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Contact | My Website</title>
+    
 </head>
 <body bgcolor="#E6FFE6">
 
@@ -122,11 +121,12 @@ It contains four pages connected using a navigation bar.
 <form>
 <table border="1" cellpadding="10">
 <tr>
-    <td>Name:</td>
+    <td>Name:Rashmi Ghimire 
+    </td>
     <td><input type="text"></td>
 </tr>
 <tr>
-    <td>Email:</td>
+    <td>Email: rashmi.ghimire227@gmail.com</td>
     <td><input type="email"></td>
 </tr>
 <tr>
@@ -147,9 +147,9 @@ It contains four pages connected using a navigation bar.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Information | My Website</title>
+    
 </head>
-<body background="https://picsum.photos/12
+<body background="https://picsum.photos/12">
 
 <center>
 <h1>ℹ Website Information ℹ</h1>
