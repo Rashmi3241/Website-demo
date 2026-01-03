@@ -143,3 +143,58 @@ It contains four pages connected using a navigation bar.
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Information | My Website</title>
+</head>
+<body bgcolor="#FFFACD">
+
+<center>
+<h1>ℹ Website Information ℹ</h1>
+</center>
+
+<hr>
+
+<center>
+<table border="1" cellpadding="10" width="80%">
+<tr bgcolor="#FFD700">
+    <th><a href="index.html">🏠 Home</a></th>
+    <th><a href="gallery.html">🖼 Gallery</a></th>
+    <th><a href="contact.html">📞 Contact</a></th>
+    <th><a href="info.html">ℹ Information</a></th>
+</tr>
+</table>
+</center>
+
+<hr>
+
+<center>
+<table border="2" cellpadding="10">
+<tr>
+    <th>Feature</th>
+    <th>Details</th>
+</tr>
+<tr>
+    <td>Language</td>
+    <td>HTML Only</td>
+</tr>
+<tr>
+    <td>Pages</td>
+    <td>Home, Gallery, Contact, Information</td>
+</tr>
+<tr>
+    <td>Design</td>
+    <td>Tables, Colors, Emojis</td>
+</tr>
+</table>
+</center>
+
+<hr>
+
+<center>
+<b>🌟 Thank you for visiting this website 🌟</b>
+</center>
+
+</body>
+</html>
