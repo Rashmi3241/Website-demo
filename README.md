@@ -79,6 +79,7 @@ It contains four pages connected using a navigation bar.
 <tr>
     <td><img src="https://picsum.photos/300/200?3"></td>
     <td><img src="https://picsum.photos/300/200?4"></td>
+    
 </tr>
 </table>
 </center>
@@ -148,7 +149,7 @@ It contains four pages connected using a navigation bar.
 <head>
     <title>Information | My Website</title>
 </head>
-<body bgcolor="#FFFACD">
+<body background="https://picsum.photos/12
 
 <center>
 <h1>ℹ Website Information ℹ</h1>
