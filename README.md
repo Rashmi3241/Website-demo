@@ -130,10 +130,14 @@ It contains four pages connected using a navigation bar.
     <td>Email: rashmi.ghimire227@gmail.com</td>
     <td><input type="email"></td>
 </tr>
+    
 <tr>
-    <td>Message:</td>
+    <form>
+        
+    <td><b>Message<br></</td>
     <td><textarea rows="4" cols="20"></textarea></td>
 </tr>
+</form>
 <tr>
     <td colspan="2" align="center">
         <input type="submit" value="Send Message">
