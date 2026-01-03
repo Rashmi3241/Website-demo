@@ -132,12 +132,12 @@ It contains four pages connected using a navigation bar.
 </tr>
     
 <tr>
-    <form>
+    
         
-    <td><b>Message<br></</td>
+    <td>Message:</td>
     <td><textarea rows="4" cols="20"></textarea></td>
 </tr>
-</form>
+
 <tr>
     <td colspan="2" align="center">
         <input type="submit" value="Send Message">
